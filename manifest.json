@@ -1,0 +1,42 @@
+{
+  "source_version": "JSTARS_SUBMISSION_UPDATE_20261028_R2",
+  "scope": "Six existing numerical CSV files; partial results-data package",
+  "files": [
+    {
+      "file": "data/Fig05_paired_ts_by_seed.csv",
+      "rows": 18,
+      "bytes": 1407,
+      "sha256": "8ba01e72ed2f488880e05a14a65f2c6db8434df9a7fd9c937f21d6ee8b0f9529"
+    },
+    {
+      "file": "data/Fig06_paired_components_by_seed.csv",
+      "rows": 42,
+      "bytes": 2972,
+      "sha256": "a63b1a2b4922234440f1e1223c77353cffc1b67bfde3fa60bd1ba5bf837f5c37"
+    },
+    {
+      "file": "data/Fig06_residual_absolute_by_seed.csv",
+      "rows": 120,
+      "bytes": 7719,
+      "sha256": "d976e121c3d12759e754c8092bcc05d532a27c377e37895e0cdee1cdc7ee82e9"
+    },
+    {
+      "file": "data/Fig07_paired_to_T_by_seed.csv",
+      "rows": 99,
+      "bytes": 6685,
+      "sha256": "8008354472e5b1bc7cfa02f35d2cf4f89a69bc2c976fdf7e12449012d3240846"
+    },
+    {
+      "file": "data/Fig10_plain_zst_by_seed.csv",
+      "rows": 21,
+      "bytes": 9147,
+      "sha256": "0fd6bb708232437f942be63c22e77a6e292425979ba2445605d5df1a33481caf"
+    },
+    {
+      "file": "data/Fig10_pressure_paired_by_seed.csv",
+      "rows": 12,
+      "bytes": 1198,
+      "sha256": "69b28f0ac3e0a6ba70716cb5b31ac918bd05786f2f4f1d5494ddd3dd26d1eaac"
+    }
+  ]
+}
