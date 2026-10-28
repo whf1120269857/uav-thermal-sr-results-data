@@ -33,4 +33,8 @@ Original third-party images, author portraits and contact lists, submission corr
 
 Repository: https://github.com/whf1120269857/uav-thermal-sr-results-data
 
-This release shares the six numerical result tables listed above. No DOI has been assigned. No additional reuse license is specified; please contact the authors for reuse permissions beyond applicable law. A license may be added in a subsequent release.
+Copyright (c) 2026 Haifu Wei, Ruipu Tong, Shiqi Zhao, Hualin Yang, and Jingwen Li.
+
+The six CSV result tables and the accompanying documentation in this package are licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt these materials, including for commercial purposes, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. This license applies only to the contents of this results-data package; it does not grant rights to third-party source images, the associated manuscript, or other materials not included here.
